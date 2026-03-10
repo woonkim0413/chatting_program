@@ -2,7 +2,12 @@ socket 기반 채팅 프로그램입니다
 
 server쪽 logic을 주도적으로 작성했습니다
 
-![Image](https://github.com/user-attachments/assets/0f6a58b6-9650-4a97-901a-feea216ce391)
+<img width="2144" height="1120" alt="image" src="https://github.com/user-attachments/assets/d97a147d-eeba-44dc-ad4b-f08eb8fe6c2e" />
+
+<br>
+
+<img width="1941" height="1018" alt="image" src="https://github.com/user-attachments/assets/99ae1d13-e377-4bf6-aea4-b6e561153e02" />
+
 
 
 (obsidian publish 링크)
